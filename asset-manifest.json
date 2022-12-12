@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-3o113m/static/css/main.02faca57.chunk.css",
-    "main.js": "https://.github.io/csb-3o113m/static/js/main.6f93cde3.chunk.js",
-    "main.js.map": "https://.github.io/csb-3o113m/static/js/main.6f93cde3.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-3o113m/static/js/runtime-main.88b680ad.js",
-    "runtime-main.js.map": "https://.github.io/csb-3o113m/static/js/runtime-main.88b680ad.js.map",
-    "static/js/2.e674810b.chunk.js": "https://.github.io/csb-3o113m/static/js/2.e674810b.chunk.js",
-    "static/js/2.e674810b.chunk.js.map": "https://.github.io/csb-3o113m/static/js/2.e674810b.chunk.js.map",
-    "index.html": "https://.github.io/csb-3o113m/index.html",
-    "static/css/main.02faca57.chunk.css.map": "https://.github.io/csb-3o113m/static/css/main.02faca57.chunk.css.map",
-    "static/js/2.e674810b.chunk.js.LICENSE.txt": "https://.github.io/csb-3o113m/static/js/2.e674810b.chunk.js.LICENSE.txt"
+    "main.css": "https://swathimarkandan.github.io/csb-3o113m/static/css/main.02faca57.chunk.css",
+    "main.js": "https://swathimarkandan.github.io/csb-3o113m/static/js/main.b4e73c58.chunk.js",
+    "main.js.map": "https://swathimarkandan.github.io/csb-3o113m/static/js/main.b4e73c58.chunk.js.map",
+    "runtime-main.js": "https://swathimarkandan.github.io/csb-3o113m/static/js/runtime-main.ad50bbef.js",
+    "runtime-main.js.map": "https://swathimarkandan.github.io/csb-3o113m/static/js/runtime-main.ad50bbef.js.map",
+    "static/js/2.e674810b.chunk.js": "https://swathimarkandan.github.io/csb-3o113m/static/js/2.e674810b.chunk.js",
+    "static/js/2.e674810b.chunk.js.map": "https://swathimarkandan.github.io/csb-3o113m/static/js/2.e674810b.chunk.js.map",
+    "index.html": "https://swathimarkandan.github.io/csb-3o113m/index.html",
+    "static/css/main.02faca57.chunk.css.map": "https://swathimarkandan.github.io/csb-3o113m/static/css/main.02faca57.chunk.css.map",
+    "static/js/2.e674810b.chunk.js.LICENSE.txt": "https://swathimarkandan.github.io/csb-3o113m/static/js/2.e674810b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.88b680ad.js",
+    "static/js/runtime-main.ad50bbef.js",
     "static/js/2.e674810b.chunk.js",
     "static/css/main.02faca57.chunk.css",
-    "static/js/main.6f93cde3.chunk.js"
+    "static/js/main.b4e73c58.chunk.js"
   ]
 }
